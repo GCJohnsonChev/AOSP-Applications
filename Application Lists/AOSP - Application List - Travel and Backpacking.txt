@@ -20,13 +20,19 @@ LexisNexis
 [*] Cloud Storage Services
 
 [+] Insecure Cloud Storage Services
+Amazon Photos
 Apple iCloud
+Degoo
 DropBox
 Google Drive / Google Cloud
+IceDrive
+JumpShare
 MediaFire
 Microsoft One Drive
+pCloud
+TeraBox
 
-[+] Secure Cloud Storage Services
+[+] Somewhat Secure Cloud Storage Services
 Mega Cloud
 Tresorit
 
