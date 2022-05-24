@@ -1,0 +1,185 @@
+Android Open Source Project ( AOSP, LineageOS, HavocOS, more ) Applications For Travel and Backpacking
+
+[+] Audio Streaming Services
+Last.FM
+Radio FM
+SoundCloud
+Spotify
+
+[+] Backpacking / Hiking Services
+All Trails
+Cairn
+Hiking Project
+Komoot
+Ramblr
+Trail Behind
+
+[+] Open Source Crime & Incident Reporting Services
+LexisNexis
+
+[*] Cloud Storage Services
+
+[+] Insecure Cloud Storage Services
+Apple iCloud
+DropBox
+Google Drive / Google Cloud
+MediaFire
+Microsoft One Drive
+
+[+] Secure Cloud Storage Services
+Mega Cloud
+Tresorit
+
+[*] Digital Communications
+
+[+] Insecure Digital Communication Services
+Discord
+Microsoft Skype
+Slack
+SnapChat
+WhatsApp
+Zoom
+
+[+] Secure Digital Communication Services
+Mumble
+TeamSpeak
+Telegram
+WireApp
+XMPP Protocol + Off-The-Record Plugin
+
+[+] Secure Voice-Over-Internet-Protocol Services
+
+[+] Insecure Voice-Over-Internet-Protocol Services
+Google Voice
+Google Hangouts
+
+[+] Digital Forums
+XDA-Forums
+
+[+] Digital News Services
+Digg
+Google News
+SlashDot
+The Hacker News
+
+[*] Electronic Mail
+
+[+] Insecure Electronic Mail
+[-] U.S.-Based
+AOL Mail
+Apple / iCloud Mail
+AT&T Mail
+Google Mail
+GMX Mail
+Microsoft Hotmail
+Yahoo Mail
+
+[+] Secure Electronic Mail
+[-] Canada-Based
+HushMail
+[-] German-Based
+TutaNota
+[-] Switzerland-Based
+ProtonMail
+
+[+] Electronics, Software & Mobile Device Services
+GitHub
+LineageOS
+
+[+] Events, Meetups and Festivals
+Event Brite
+Meetup / Meet.me
+Ticket Master
+
+[+] Lodging Services
+AirBNB
+CouchSurfing
+Hostels
+HostelWorld
+
+[+] Online Stores
+Amazon
+e-Bay
+NewEgg
+
+[+] Research and Trip Planning
+Google Flights / Travel
+Instructables
+Padlet
+PasteBin
+WikiPedia
+
+[*] Social Media Services
+
+[+] Public Posting / Scroll Posting Services
+Diaspora
+Backpacking Mojo
+Expat
+FaceBook
+Live Journal
+Medium
+MySpace
+Reddit
+Twitter
+
+[+] Image Sharing Services
+DeviantArt
+Flikr
+Google Photos
+Image Shack
+Imgur
+Instagram
+Pinterest
+PhotoBucket
+
+[+] Video Sharing Services
+DailyMotion
+Vimeo
+YouTube
+
+[+] Dating Services
+Badoo
+eHarmony
+Elite Singles
+OKCupid
+Plenty of Fish
+Tinder
+
+[+] Exploration Services
+Maps.Me
+
+[+] Document Archivers
+Receipt Scanner
+
+[+] Currency Manipulation
+XE Currency
+
+[*] Transportation
+
+[+] Ridesharing Services
+Uber
+Lyft
+
+[+] Bus Systems
+[-] U.S. Based
+Bolt Bus
+Mega Bus
+Trailways
+[-] International
+Flix Bus
+
+[+] Train / Rail Systems
+[-] U.S. Based
+Amtrak
+LA MetroLink
+[-] European Union Based
+BritRail
+EuroRail
+[-] Central, South America
+Urban Rail
+[-] Africa
+Rovos Rail
+BlueTrain
+
+[+] Portable Video Game Platforms
+Steam Community
