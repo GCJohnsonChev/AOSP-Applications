@@ -83,7 +83,7 @@ Yahoo Mail
 [+] Secure Electronic Mail
 [-] Canada-Based
 HushMail
-[-] German-Based
+[-] Germany-Based
 TutaNota
 [-] Switzerland-Based
 ProtonMail
