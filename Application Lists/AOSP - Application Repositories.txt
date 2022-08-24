@@ -1,7 +1,8 @@
 FOSS Application Repositories
 
-F-Droid
-G-Droid
-Aptoide
 Aurora Droid
 Aurora Store
+F-Droid
+FOSS-Droid
+G-Droid
+Aptoide
