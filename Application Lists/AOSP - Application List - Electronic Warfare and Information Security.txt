@@ -4,6 +4,6 @@ IPBlock
 IPTables
 
 SCADA Backscatter Mapper
-Magnetron Regulator
-HERF Regulator
-Radio Jammer
+Magnetron-Microwave Gun Device Regulator
+HERF Gun Device Regulator
+Radio Jammer Device Regulator
