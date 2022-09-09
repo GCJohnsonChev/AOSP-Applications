@@ -4,3 +4,6 @@ Maltego
 Shodan
 TinEye
 Reconnaisance
+
+Image Editors
+PixIT
